@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jwt", "jwt.csproj", "{BE742F79-C9A1-409A-943B-DF2D942173EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE742F79-C9A1-409A-943B-DF2D942173EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE742F79-C9A1-409A-943B-DF2D942173EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE742F79-C9A1-409A-943B-DF2D942173EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE742F79-C9A1-409A-943B-DF2D942173EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40DF52B8-7891-4D6C-B592-1A4EDDEFB622}
+	EndGlobalSection
+EndGlobal
